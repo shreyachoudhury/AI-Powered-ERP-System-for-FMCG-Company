@@ -20,3 +20,4 @@ Prompts Example to try :
 20] Display a line plot of cumulative maintenance cost over time.
 21] Show a pie chart of maintenance costs segmented by technician.
 22] Generate a heatmap of days since last maintenance by technician and maintenance type.
+23] A bar chart showing the total maintenance cost for each maintenance type over the past 6 months.
