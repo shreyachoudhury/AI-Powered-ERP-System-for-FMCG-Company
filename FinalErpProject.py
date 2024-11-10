@@ -301,7 +301,7 @@ def audit_logs():
     st.title("Audit Logs")
     st.dataframe(data['AuditLogs'])
 
-# Main function
+# Main
 def main():
     st.sidebar.title("Navigation")
     role = st.session_state.get('role', None)
